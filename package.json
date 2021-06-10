@@ -1,0 +1,20 @@
+{
+  "name": "cronometro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cronometro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoDavanzo/cronometro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoDavanzo/cronometro/issues"
+  },
+  "homepage": "https://github.com/BrunoDavanzo/cronometro#readme"
+}
